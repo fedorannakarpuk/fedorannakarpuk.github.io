@@ -1,0 +1,11 @@
+*{
+    @import url("reset.css");
+}
+.hd{
+    outline: 3px solid red;
+    background: red;
+    border-radius: 50%;
+   height: 300px;
+    width: 300px;
+    margin-left: 50%;
+}
